@@ -3,7 +3,6 @@
 ##Learning and upgrading day by day
 
 
-Here are some ideas to get you started:
 
 - 🎓 Undergrad Student, CSE, Brac University 
 - 🧠 Still a learner
