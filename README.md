@@ -4,7 +4,7 @@
 
 
 
-- 🎓 Undergrad Student, CSE, Brac University 
+- 🎓 Graduate, CSE, Brac University 
 - 🧠 Still a learner
 - 📫 Reach me: @sarweralam@gmail.com, hm.sarwer.alam@g.bracu.ac.bd
 
