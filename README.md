@@ -9,8 +9,7 @@
 ---
 
 ### Connect with me:
-[LinkedIn](https://linkedin.com/in/h-m-sarwer-alam-893431203) | [Facebook](https://fb.com/sarweralam867) | [Instagram](https://instagram.com/nameerror.zip) | [Hackerrank](https://www.hackerrank.com/hm_sarwer_alam) | [Codeforces](https://codeforces.com/profile/hm.sarwer.alam)
-
+|| [LinkedIn](https://linkedin.com/in/h-m-sarwer-alam-893431203) ||
 ---
 
 ### Skills and Technologies:
