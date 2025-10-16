@@ -1,7 +1,7 @@
 # Hi there 👋, This is H.M. Sarwer Alam
 
 ## Learning and upgrading day by day
-
+- 💻 Software Engineer 
 - 🎓 Graduate, CSE, Brac University  
 - 🧠 Still a learner and passionate about AI, Machine Learning, and Image Processing  
 - 📫 Reach me: [sarweralam867@gmail.com](mailto:sarweralam867@gmail.com) | [hm.sarwer.alam@g.bracu.ac.bd](mailto:hm.sarwer.alam@g.bracu.ac.bd)
